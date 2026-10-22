@@ -1,0 +1,13 @@
+# Compiled Java files
+bin/
+*.class
+
+# Secrets
+.env
+.env.*
+
+# Local VS Code settings
+.vscode/
+
+# Log files
+*.log
